@@ -1,2 +1,2 @@
-# SimpleChattyBot
-JetBrains Academy Project 
+# JetBrains Acedemy Projects
+List of projects 
