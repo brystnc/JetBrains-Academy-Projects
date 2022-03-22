@@ -1,2 +1,2 @@
 # SimpleChattyBot
-First project done in JetBrains Academy
+First project in JetBrains Academy
